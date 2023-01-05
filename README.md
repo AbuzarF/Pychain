@@ -5,4 +5,4 @@
 ## Coded the additional input areas for the user interface of the Streamlit application. Created these input areas to capture the sender, receiver, and amount for each transaction that will store in the `Block` record.
 ## Attached the screenshot of the Streamlit application page, which should detail a blockchain that consists of multiple blocks. 
 
-[Pychain Streamlit Image](
+[Pychain Streamlit Image](https://github.com/AbuzarF/Pychain/blob/main/Capture2.png)
